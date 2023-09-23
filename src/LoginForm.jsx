@@ -71,10 +71,10 @@ function LoginForm() {
           </Box>
           <Box>
             <Typography>
-              Username: admin
+              Username: ****
             </Typography>
             <Typography>
-              Password: admin
+              Password: ****
             </Typography>
           </Box>
         </Box>
