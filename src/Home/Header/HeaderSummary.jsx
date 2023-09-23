@@ -52,33 +52,33 @@ function HeaderSummary({ images, texts }) {
             <ListItem>
               <ListItemText>
                 <Typography component="h1" variant="h6">
-                  Inicio
+                  Start
                 </Typography>
               </ListItemText>
             </ListItem>
             <ListItem>
               <ListItemText>
                 <Typography component="h1" variant="h6">
-                  Productos
+                  Products
                 </Typography>
               </ListItemText>
             </ListItem>
             <ListItem>
               <ListItemText>
                 <Typography component="h1" variant="h6">
-                  Marcas
+                  Brands
                 </Typography>
               </ListItemText>
             </ListItem>
             <ListItem>
               <Typography component="h1" variant="h6">
-                Tiendas
+                Stores
               </Typography>
             </ListItem>
             <ListItem>
               <ListItemText>
                 <Typography component="h1" variant="h6">
-                  Comprar
+                  Admin
                 </Typography>
               </ListItemText>
             </ListItem>

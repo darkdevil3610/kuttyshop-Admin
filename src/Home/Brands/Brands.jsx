@@ -42,7 +42,7 @@ function Brands() {
     <>
       <Box display="flex" alignItems="center">
         <ViewInArIcon sx={{ m: 2 }} />
-        <Typography variant="h5" component="h1" id="marcas">Marcas</Typography>
+        <Typography variant="h5" component="h1" id="marcas">Brands</Typography>
       </Box>
       <Box sx={{
         display: 'flex',
@@ -67,7 +67,7 @@ function Brands() {
         >
           <Grid item xs={12}>
             <Typography textAlign="center" fontWeight="bold" fontSize="3rem">
-              Marcas
+              Brands
             </Typography>
           </Grid>
           <Grid item xs={12}>
