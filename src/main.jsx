@@ -22,7 +22,7 @@ const errorLink = onError(({ graphQLErrors, networkError }) => {
 });
 
 const httpLink = new HttpLink({
-  uri: 'https://first-page-backend-production.up.railway.app/',
+  uri: 'https://first-page-backend.vercel.app/',
   headers: {
     authorization: getAuth(),
   },
